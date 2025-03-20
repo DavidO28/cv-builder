@@ -1,5 +1,7 @@
-<template>{{ str }}
-  <v-color-picker></v-color-picker>
+<template>
+  <main>
+    <router-view></router-view>
+  </main>
 </template>
 
 <script setup lang="ts">
