@@ -1,1 +1,1 @@
-cv builder app
+cv builder
